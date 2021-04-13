@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106988430184",
+    "project_id": "water-level-35cfc",
+    "storage_bucket": "water-level-35cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106988430184:android:d7002d7632c496348f2cdd",
+        "android_client_info": {
+          "package_name": "com.example.water_level"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106988430184-sfl3v5h5gh4l197ht4qq1n4j20sqe40k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuC2CqL-Izdx-KYegLLukinLVGCRKJYIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106988430184-sfl3v5h5gh4l197ht4qq1n4j20sqe40k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
